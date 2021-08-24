@@ -1,8 +1,8 @@
 # Drinkology :tropical_drink:
 
 ## Description 
-Drinkology was created to allow end users to look up cocktail recipes, and master the art of mixology in the comfort of their own home.
-Members are able to sign in,save receipes to their account and leave reviews.
+"Drinkology" was created to allow end users to look up cocktail recipes, and master the art of mixology in the comfort of their own home.
+Members are able to sign in,save recipes to their account and leave reviews.
 
 ---
 
@@ -31,7 +31,8 @@ SO THAT I can have a place to get inspired, store my drink recipes and leave rev
 
 ## Link 
 
-https://drinkology.herokuapp.com/
+https://drinkology.herokuapp.com/ -- Deployed
+https://github.com/Mayorgak/drinkology -- Original Commit History
 
 ---
 
