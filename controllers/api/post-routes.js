@@ -43,6 +43,8 @@ router.post('/', withAuth, async (req, res) => {
                 drink_category: drink.strCategory
             }
         );
+
+        console.log(newPost);
         res.json(newPost);
     } catch (err) {
         res.status(500).json(err)
