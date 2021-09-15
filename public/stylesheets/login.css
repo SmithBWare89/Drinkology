@@ -71,6 +71,16 @@ input:focus {
   margin-bottom: 30px;
 }
 
+.error-item {
+  display: none;
+}
+
+.error {
+  display: inline;
+  color: red;
+  font-size: 1em;
+}
+
 
 
 @media (max-width: 375px) {
