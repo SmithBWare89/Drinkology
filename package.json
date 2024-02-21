@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "## Description  Drinkology was created to allow users to look up cocktail receipes and master the art of mixology in the comfort of their own home. Members are able to sign in and save receipes to their account and add comments to the blog.",
   "main": "server.js",
+  "engines": {
+    "node": "=16.16.0",
+    "npm": "=8.11.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
